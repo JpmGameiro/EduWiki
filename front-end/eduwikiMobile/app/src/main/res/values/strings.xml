@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EduWiki</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="navigation_home">Home</string>
+    <string name="navigation_classes">Classes</string>
+    <string name="navigation_courses">Courses</string>
+    <string name="navigation_programmes">Programmes</string>
+    <string name="navigation_profile">Profile</string>
+    <string name="noResultsFound">No Results Found</string>
+    <string name="side_navigation_open">Open</string>
+    <string name="side_navigation_Close">Close</string>
+    <string name="logout">Logout</string>
+</resources>

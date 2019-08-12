@@ -1,0 +1,219 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+#navbar {
+  background:  linear-gradient(-90deg,#373B44, #4286f4)
+}
+
+#formItem{
+  display: inline-block;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#holder{
+  position:absolute;
+	width:100%;
+	height:100%;
+}
+
+#home-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+#isel-logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+#karma-positive {
+  color: green
+}
+
+#karma-negative {
+  color: red
+}
+
+.hide_staged_resources {
+  visibility : hidden
+}
+
+.show_staged_resources {
+  visibility: visible
+}
+
+#like_btn:hover {
+  color: green
+}
+
+#like_btn {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+#dislike_btn {
+  margin-left: 5px;
+}
+
+#dislike_btn:hover {
+  color: red;
+}
+
+#report_btn {
+  margin-left: 5px;
+}
+
+#report_btn:hover {
+  color: orange;
+}
+
+#show_reports_btn {
+  margin-left: 5px;
+}
+
+#create_btn {
+  margin-top: 50px;
+}
+
+#formItem{
+  display: inline-block;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#formItem{
+  display: inline-block;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#centre_div{
+  width: 50%;
+  margin: 0 auto;
+}
+
+.layout {
+  background-color: white;
+  padding-bottom:60px;
+}
+
+.footer {
+  position:fixed;
+  left:0;
+  bottom:0;
+  right:0;
+}
+
+.container {
+  margin: 5rem;
+  text-align: center;
+}
+
+.logo_container {
+  background:  linear-gradient(-90deg,#373B44, #4286f4)
+}
+
+.left-div {
+  float: left;
+  width: 40%;
+}
+.right-div {
+  float: right;
+  width: 40%;
+}
+
+.course_items {
+  background-color: white;
+}
+
+.left-div:after {
+  content: "";
+  background-color: black;
+  position: absolute;
+  width: 3px;
+  height: 75%;
+  top: 100px;
+  left: 50%;
+  display: block;
+}
+
+
+.login_form {
+  display: inline-block;
+}
+
+.navbar_item {
+  float: left;
+  width: auto;
+}
+
+.logout {
+  float: right;
+}
+
+.app_icon {
+  width: 30%;
+}
+
+.user_icon {
+ margin-left: 20%;
+}
+
+.left_side {
+  float: left;
+  width: 30%;
+  height: 10%;
+}
+
+.side_item {
+  padding-bottom: 10%;
+}
+
+.right_side {
+  float: right;
+  width: 20%;
+  height: 10%;
+}
+
+.transparent_btn {
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    outline:none;
+    color:white;
+}
+
+.username {
+  color: white;
+}
+
+.title_div {
+  display:inline-block
+}
+
+.version_div {
+  display:inline-block;
+  margin-left: 5%
+}
+
+.centre_div {
+  display: inline-block;
+  margin:0 auto;
+  width: 40%;
+  margin-left: 5%
+}
+
+.centre_div_profile {
+  display: inline-block;
+  margin:0 auto;
+  margin-left: 5%
+}
